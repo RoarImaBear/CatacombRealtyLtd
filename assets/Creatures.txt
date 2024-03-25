@@ -1,0 +1,30 @@
+%    ¸¸¸   %   (•_•)  %    /ǁ\   %     ǁ    %
+
+
+4. Man end.
+5. Maintain formatting to preserve correct printContent indexing.
+%    ...   %   [•_•]  %    |ǁ|   %     ǁ    %
+
+
+9. Man2 end.
+10. Maintain formatting. Skip lines as indicated. All must be 10 spaces wide.
+%    ,,,   %   {•_+}  %   [|X|]  %     ǁ    %
+
+
+14. Man3 end.
+15. Maintain formatting. Skip lines as indicated. All must be 10 spaces wide.
+%   _____  %  |•___•| %  /( . )\ %    ǁ ǁ   %
+
+
+19. Man4 end.
+20. Maintain formatting. Skip lines as indicated. All must be 10 spaces wide.
+%    ¸ ¸   %   (•.•)  %    /ǁ`   %     ǁ    %
+
+
+24. Man5 end.
+25. Maintain formatting. Skip lines as indicated. All must be 10 spaces wide.
+% ¸¸¸      %(•_•) ¸¸  % /ǁ\_{..} %  ǁ   ||  %
+
+
+29. Man + Child end.
+30. Maintain formatting. Skip lines as indicated. All must be 10 spaces wide.

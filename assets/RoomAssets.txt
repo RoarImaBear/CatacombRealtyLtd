@@ -1,0 +1,80 @@
+%   ·      %        · % ·        %      ·   %      ·   %      ·   %      ·   %      ·   %      ·   %
+
+
+
+
+
+
+
+9. Wall[1] assets end. 
+10. Maintain formatting. Skip lines as indicated. All must be 10 spaces wide.
+% '  ·  '  %  ○   †   %   †   ·  %  † · †   %   ·†·    %    ††    %       ·  %  ·       %  '†'     %
+
+
+
+
+
+
+
+19. Wall[2] assets end.
+20. Maintain formatting. Skip lines as indicated. All must be 10 spaces.
+% '  ·  '  %          %       ·  %    ·     %   · ·    %       †  %       ·  %  ·       %  ' '     %
+
+
+
+
+
+
+
+29. Wall[2] assets end.
+30. Maintain formatting. Skip lines as indicated. All must be 10 spaces.
+% _  · ..  %    ,     %       _  % _        %   ,   _  %          %    _     %  =       %  []      %
+
+
+
+
+
+
+
+39. Wall[2] assets end.
+40. Maintain formatting. Skip lines as indicated. All must be 10 spaces.
+%       _  %       ,  %   _      %    [_-]  %        , %          %      |_| %       ,  %    ____  %       _  %       ,  %   _      %    [_-]  %        , %          %      |_| %       ,  %    ____  %    ____  %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59. Wall[2] assets end.
+60. Maintain formatting. Skip lines as indicated. All must be 10 spaces.
+%      [_] %  .   .&. %  _ǁ_     %  __ _  __%    &_& | %     ___. %      |-| %   |===|  %   ǁ \/ ǁ %      [_] %  .   .&. %  _ǁ_     %  __ _  __%    &_& | %     ___. %      |-| %   |===|  %   ǁ \/ ǁ %   ǁ \/ ǁ %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+79. Wall[2] assets end.
+80. Maintain formatting. Skip lines as indicated. All must be 10 spaces.
